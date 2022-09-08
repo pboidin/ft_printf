@@ -9,13 +9,13 @@ This project is clear and efficient. You have to recode printf. You will then be
   The prototype of ft_printf() should be :
       int ft_printf(const char *, ...);
 
-  Here are some requirements to respect:
-    - Contrary to the original printf() function, you must not manage a buffer.
-    - You must handle the following conversions: cspdiuxX%.
-    - Your output will be compared to the original printf() function.
-    - You must use the ar command to create your library.
-    The use of the libtool command is forbidden.
-    - Your libftprintf.a must be created at the root of your repository.
+  Here are some requirements to respect:\
+    - Contrary to the original printf() function, you must not manage a buffer.\
+    - You must handle the following conversions: cspdiuxX%.\
+    - Your output will be compared to the original printf() function.\
+    - You must use the ar command to create your library.\
+    The use of the libtool command is forbidden.\
+    - Your libftprintf.a must be created at the root of your repository.\
 
   You must implement the following conversions:
     - %c Displays a single character.
