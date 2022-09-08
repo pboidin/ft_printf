@@ -14,7 +14,7 @@ This project is clear and efficient. You have to recode printf. You will then be
     - You must handle the following conversions: cspdiuxX%.\
     - Your output will be compared to the original printf() function.\
     - You must use the ar command to create your library.The use of the libtool command is forbidden.\
-    - Your libftprintf.a must be created at the root of your repository.\
+    - Your libftprintf.a must be created at the root of your repository.
 
   You must implement the following conversions:\
     - %c Displays a single character.\
@@ -25,4 +25,4 @@ This project is clear and efficient. You have to recode printf. You will then be
     - %u Display an unsigned decimal number (base 10).\
     - %x Displays a number in hexadecimal (base 16) with lower case letters.\
     - %X Displays a number in hexadecimal (base 16) with upper case letters.\
-    - %% Displays a percentage sign.\
+    - %% Displays a percentage sign.
